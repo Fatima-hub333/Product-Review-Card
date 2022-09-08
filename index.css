@@ -125,7 +125,7 @@ button {
   .desktop-img {
     display: block;
     width: 300px;
-    border-radius: 8px;
+    border-radius: 10px 0 0 10px;;
   }
 
   .desktop-layout {
