@@ -14,75 +14,72 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/Product-Review.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL is here](https://github.com/Fatima-hub333/Product-Review-Card)
+- Live Site URL: [Live site URL is here](https://lucky-cheesecake-38b975.netlify.app)
 
 ## My process
-
+I create html template first after that I started stylin components one by one.
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I learned media queries via solving this challenge as it has different layout for mobile screen & desktop screen. So yeah it's amazing I learned new things how to use media queries using different screen widths. I really liked this pattern and will use it going forward.
 
-To see how you can add code snippets, see below:
+## Getting Started
+To get a local copy up and running, follow the steps in Setup below.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
+### Prerequisites
+Basic knowledge of HTML, CSS.
+
+### Setup
+If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
+
+[Download the ZIP from this location](https://github.com/Fatima-hub333/Google_clone/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+
+```bash
+git clone https://github.com/Fatima-hub333/Google_clone.git
 ```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+- Once the files are on your machine, open the _Portfolio_ folder in [Visual Studio Code](https://code.visualstudio.com/).
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+- With the files open in Visual Studio Code, press the **Go Live** button at the bottom of the window to launch the files with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
-### Continued development
+### Install
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+The following tools help make easier to work with sample code.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+- [git](https://git-scm.com/downloads): A tool for managing source code
+- [Visual Studio Code](https://code.visualstudio.com/): A source code editor
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): A simple web server utility for Visual Studio Code
 
-### Useful resources
+## Authors
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+👤 **Fatima Zahir**
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- GitHub: [@githubhandle](https://github.com/Fatima-hub333)
+- Twitter: [@twitterhandle](https://twitter.com/Fatima_developr)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/fatimaa-zahir/)
 
-## Author
+## 🤝 Contributing
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+Contributions, issues, and feature requests are welcome!
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+Feel free to check the [issues page](https://github.com/Fatima-hub333/Google_clone/issues).
 
-## Acknowledgments
+## Show your support
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Give a ⭐️ if you like this project!
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
