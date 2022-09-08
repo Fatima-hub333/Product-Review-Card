@@ -45,7 +45,7 @@ body {
   font-size: 14px;
 }
 
-header {
+.header {
   width: 300px;
   font-weight: 700;
   font-family: 'Fraunces', serif;
@@ -137,7 +137,7 @@ button {
     /* padding-left: 30px; */
   }
 
-  header {
+  .header {
     width: 250px;
   }
 
